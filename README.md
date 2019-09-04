@@ -1,4 +1,4 @@
-# ula-html-css-practice
+# ula-html-css
 
 By Abby Hopkins, Intro Coding for Journalists class
 
